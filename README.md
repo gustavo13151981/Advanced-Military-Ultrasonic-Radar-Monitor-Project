@@ -14,7 +14,7 @@ tracking the exact position and trace the path followed by the object.
 
 ## Components
 
-### Hardware Components
+### Hardware Components⚙
 #### Main Components
 
 ✔ Arduino-UNO Development Board
