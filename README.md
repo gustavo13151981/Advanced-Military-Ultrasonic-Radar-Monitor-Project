@@ -1,4 +1,4 @@
-# Advanced-Military-Ultrasonic-Radar-Monitor-Project
+# Advanced-Military-Ultrasonic-Radar-Monitor-Project📡
 
 Radar (Radio Detection And Ranging) is an object detection system that 
 uses radio waves or microwaves to determine object distance(ranging), 
@@ -17,34 +17,34 @@ tracking the exact position and trace the path followed by the object.
 ### Hardware Components
 #### Main Components
 
-- Arduino-UNO Development Board
+✔ Arduino-UNO Development Board
 
-- Ultrasonic Sensor (HC-SR04)
+✔ Ultrasonic Sensor (HC-SR04)
 
-- Servo Motor (43R Servo with 360 degree specification)
+✔ Servo Motor (43R Servo with 360 degree specification)
 
-- LCD Display (16*2)
+✔ LCD Display (16*2)
 
-- Printed PCB
+✔ Printed PCB
 
 #### Small Components
-- 4 Resistors & 2 Diodes & 6 Capacitors
+✔ 4 Resistors & 2 Diodes & 6 Capacitors
 
-- 1 Transistor & 1 Voltage Regulator & 1 Buzzer
+✔ 1 Transistor & 1 Voltage Regulator & 1 Buzzer
 
-- 2 LED lights & Push Button & USB Connector & Jumper Wires
+✔ 2 LED lights & Push Button & USB Connector & Jumper Wires
 
-- 12V DC Adaptor & DC Power Supply Connector
+✔ 12V DC Adaptor & DC Power Supply Connector
 
-- Arduino Nano Connectors & Pin Header
+✔ Arduino Nano Connectors & Pin Header
 
-### Software Components
+### Software Components💻
 
-- Arduino IDE
+✔ Arduino IDE
 
-- Processing IDE
+✔ Processing IDE
 
-## Features
+## Features✨
 
 - It transmits the sound of the object so color or transparency can't affect it's mechanism. 
 - It'll work perfectly at night and in heavy rain.
@@ -55,6 +55,7 @@ tracking the exact position and trace the path followed by the object.
 ## Circuit Diagram
 
 ![MasterHead](https://miro.medium.com/max/550/1*CQzRj_YAHcEOVyKzQZNtfg.png)
-## Authors
+
+## Author👩‍💻
 
 - [@preethaadutta](https://github.com/preethaadutta)
