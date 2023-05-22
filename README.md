@@ -47,8 +47,11 @@ tracking the exact position and trace the path followed by the object.
 ## Features✨
 
 ✔ It transmits the sound of the object so color or transparency can't affect it's mechanism. 
+
 ✔ It'll work perfectly at night and in heavy rain.
+
 ✔ It has high frequency, high sensitivity so it's efficiency is very high.
+
 ✔ Even if anyone comes close, it'll not be harmful for human being or any type of animals.
 
 
