@@ -55,7 +55,7 @@ tracking the exact position and trace the path followed by the object.
 
 📌 Arduino Nano Connectors & Pin Header
 
-### Software Components💻
+### Software Tools💻
 
 📌 Arduino IDE
 
