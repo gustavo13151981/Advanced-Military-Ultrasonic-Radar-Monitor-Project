@@ -72,14 +72,20 @@ tracking the exact position and trace the path followed by the object.
 ✔ Even if anyone comes close, it'll not be harmful for human being or any type of animals.
 
 
+## Block Diagram
+
+![MasterHead](https://miro.medium.com/max/550/1*CQzRj_YAHcEOVyKzQZNtfg.png)
+
+
 ## Circuit Diagram
 
 ![MasterHead](https://miro.medium.com/max/550/1*CQzRj_YAHcEOVyKzQZNtfg.png)
+
 
 ## Author👩‍💻
 
 - [@preethaadutta](https://github.com/preethaadutta)
 
-❤
 
 💖Thank You for opening my repository💖
+💖Star my repository if You like It💖
