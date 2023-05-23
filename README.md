@@ -12,6 +12,23 @@ angle as well as distance of the object from our source. Our system helps in
 tracking the exact position and trace the path followed by the object.
 
 
+## Project Development Stages
+
+👉 Choosing Microcontroller
+
+👉 Circuit Design
+
+👉 Components Procurement
+
+👉 Soldering all components into PCB
+
+👉 Circuit Connection and Testing
+
+👉 Downloading Software
+
+👉 Coding
+
+
 ## Components
 
 ### Hardware Components⚙
