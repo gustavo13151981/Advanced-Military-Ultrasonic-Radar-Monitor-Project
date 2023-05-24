@@ -84,7 +84,7 @@ tracking the exact position and trace the path followed by the object.
 
 ## Model
 
-![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Circuit_Diagram.bmp)
+![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Project_Model.jpg)
 
 
 ## Author👩‍💻
