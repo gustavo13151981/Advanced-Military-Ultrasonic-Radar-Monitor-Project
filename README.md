@@ -89,11 +89,11 @@ tracking the exact position and trace the path followed by the object.
 
 ## Demo Output
 
-### When suspicious object is not there
+### When suspicious object is not there ~
 
 ![No_Object](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Output1.jpg)
 
-### When suspicious object is in range
+### When suspicious object is in range ~
 
 ![With_Object](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Output2.jpg)
 
