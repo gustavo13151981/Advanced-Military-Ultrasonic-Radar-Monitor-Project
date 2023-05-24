@@ -91,11 +91,12 @@ tracking the exact position and trace the path followed by the object.
 
 ### When suspicious object is not there
 
-![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Circuit_Diagram.bmp)
+![No_Object](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Output1.jpg)
 
 ### When suspicious object is in range
 
-![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Circuit_Diagram.bmp)
+![With_Object](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Output2.jpg)
+
 
 ## Author👩‍💻
 
