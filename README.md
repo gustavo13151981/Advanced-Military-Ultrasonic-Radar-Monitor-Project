@@ -79,7 +79,7 @@ tracking the exact position and trace the path followed by the object.
 
 ## Circuit Diagram
 
-![MasterHead](https://miro.medium.com/max/550/1*CQzRj_YAHcEOVyKzQZNtfg.png)
+![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Circuit_Diagram.bmp)
 
 
 ## Author👩‍💻
