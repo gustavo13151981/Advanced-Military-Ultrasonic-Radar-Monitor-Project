@@ -74,7 +74,7 @@ tracking the exact position and trace the path followed by the object.
 
 ## Block Diagram
 
-![Block Diagram]([https://miro.medium.com/max/550/1*CQzRj_YAHcEOVyKzQZNtfg.png](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Block_Diagram.png))
+![Block Diagram](https://miro.medium.com/max/550/1*CQzRj_YAHcEOVyKzQZNtfg.png](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Block_Diagram.png)
 
 
 ## Circuit Diagram
