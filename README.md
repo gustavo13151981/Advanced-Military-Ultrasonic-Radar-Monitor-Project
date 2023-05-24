@@ -82,12 +82,12 @@ tracking the exact position and trace the path followed by the object.
 ![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Circuit_Diagram.bmp)
 
 
-## Model
+## Model Overview 
 
 ![MasterHead](https://raw.githubusercontent.com/preethaadutta/Advanced-Military-Ultrasonic-Radar-Monitor-Project/main/Project_Model.jpg)
 
 
-## Output
+## Demo Output
 
 ### When suspicious object is not there
 
@@ -103,5 +103,5 @@ tracking the exact position and trace the path followed by the object.
 - [@preethaadutta](https://github.com/preethaadutta)
 
 
-💖Thank You for opening my repository💖
-💖Star my repository if You like It💖
+💖 Thank You for opening my repository 💖
+💖 Star my repository if You like It 💖
